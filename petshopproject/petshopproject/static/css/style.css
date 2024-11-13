@@ -6,9 +6,22 @@ h1{
 #h1{
     color: blue;
 }
-p{
-    color: brown;
+
+
+.div1{
+    align-items: baseline;
+    vertical-align: middle;
+    text-decoration: double;
+    text-shadow: 0cqb;
+    text-align: center;
 }
-.h1{
-    color: crimson;
+.div2{
+    text-align: center;
+    color-scheme: blue;
 }
+.tester{
+    background: black;
+    background-color: aqua;
+}
+
+
